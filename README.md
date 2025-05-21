@@ -44,7 +44,7 @@ MANIGANDAN
 
 Intern at CodTech Solutions  
 
-## ![image](https://github.com/user-attachments/assets/0231b2f2-b7bb-4aee-b66d-d4d1a8a4494f)Output
+## Output
 
 ![Image](https://github.com/user-attachments/assets/0ac11434-0588-410b-b67f-519e01cefef5)
 
