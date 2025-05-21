@@ -39,7 +39,9 @@ This repository contains the Deep Learning Project as part of my internship.
 - Training completed in ~5 minute (5 epochs)
 
 ## 🙋‍♂️ Author
+
 MANIGANDAN 
+
 Intern at CodTech Solutions  
 
 #Output
