@@ -60,6 +60,6 @@ Intern at CodTech Solutions
 
 ![Image](https://github.com/user-attachments/assets/c3040213-e552-4384-a55a-80fce9c42111)
 
-![Image](https://github.com/user-attachments/assets/92f04284-0cf1-463f-91bf-3bd7c125f3f6)
+
 
 
